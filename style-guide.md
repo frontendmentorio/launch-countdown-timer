@@ -13,15 +13,15 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Grayish blue: hsl(237, 18%, 59%)
-- Soft red: hsl(345, 95%, 68%)
+- Lavender 300: hsl(237, 18%, 59%)
+- Pink 100: hsl(345, 95%, 68%)
 
 ### Neutral
 
 - White: hsl(0, 0%, 100%)
-- Dark desaturated blue: hsl(236, 21%, 26%)
-- Very dark blue: hsl(235, 16%, 14%)
-- Very dark (mostly black) blue: hsl(234, 17%, 12%)
+- Slate 700: hsl(236, 21%, 26%)
+- Slate 800: hsl(235, 16%, 14%)
+- Slate 900: hsl(234, 17%, 12%)
 
 ## Typography
 
